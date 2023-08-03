@@ -49,7 +49,7 @@ For doing this challenges , first i install the VS Code developer tool to edit a
 3. Now, Enter your schedule events or tasks in the corresponding time blocks. 
 4. Click the "Save" button for each time block to save your events.
 5. finally , Your saved events will be persisted and displayed.
-6. here is demo of app : ![Third party Homework demo ]("Assets/../Assets/05-third-party-apis-homework-demo.gif")
+6. here is demo of app : ![Third party Homework demo ]("Assets/05-third-party-apis-homework-demo.gif")
 
 
 
